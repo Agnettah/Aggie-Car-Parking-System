@@ -149,9 +149,8 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
     [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
+[contributors](https://github.com/Agnettah/Aggie-Car-Parking-System.git)
 who participated in this project.
-
 ## License
 
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
@@ -166,10 +165,10 @@ details
 ## Authors
 
   - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+    [Aggie](https://github.com/Agnettah/Aggie-Car-Parking-System.git)
 
 See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
+[contributors](https://github.com/Agnettah/Aggie-Car-Parking-System.git)
 who participated in this project.
 
 ## License
