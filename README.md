@@ -164,7 +164,7 @@ details
   - etc
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
+  - **Aggie** - *Provided README Template* -
     [Aggie](https://github.com/Agnettah/Aggie-Car-Parking-System.git)
 
 See also the list of
